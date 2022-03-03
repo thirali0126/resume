@@ -10,9 +10,9 @@ function Keyskills() {
                 <h2>- Python</h2>
                 <h2>- HTML</h2>
                 <h2>- CSS</h2>
-                <h3>- React</h3>
-                <h3>- React Native</h3>
-                <h3>- Android</h3>
+                <h2>- React</h2>
+                <h2>- React Native</h2>
+                <h2>- Android</h2>
             
            </div>
         </div>
