@@ -2,9 +2,9 @@ import React from 'react'
 
 function Projects() {
     return (
-        <div >
+        <div className = 'item7 sproject'>
             <h2>Projects</h2>
-            <div >
+            <div className = 'projectitems' >
                 <h3>Trella app </h3>
                 <h4>- Developed in Android </h4>
                 <h3>Vaccination App  </h3>

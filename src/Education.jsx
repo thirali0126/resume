@@ -2,7 +2,7 @@ import React from 'react';
 
 function Education () {
   return (
-    <div >
+    <div className = 'item4 sedu'>
     <h2>Education</h2>
       <table style={{width: '100%', border: '2px'}}>
         <tbody>
